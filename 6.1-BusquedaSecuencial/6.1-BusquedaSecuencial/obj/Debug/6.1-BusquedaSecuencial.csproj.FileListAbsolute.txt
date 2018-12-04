@@ -1,0 +1,7 @@
+D:\users\braul\source\repos\6.1-BusquedaSecuencial\6.1-BusquedaSecuencial\bin\Debug\6.1-BusquedaSecuencial.exe.config
+D:\users\braul\source\repos\6.1-BusquedaSecuencial\6.1-BusquedaSecuencial\bin\Debug\6.1-BusquedaSecuencial.exe
+D:\users\braul\source\repos\6.1-BusquedaSecuencial\6.1-BusquedaSecuencial\bin\Debug\6.1-BusquedaSecuencial.pdb
+D:\users\braul\source\repos\6.1-BusquedaSecuencial\6.1-BusquedaSecuencial\obj\Debug\6.1-BusquedaSecuencial.csprojAssemblyReference.cache
+D:\users\braul\source\repos\6.1-BusquedaSecuencial\6.1-BusquedaSecuencial\obj\Debug\6.1-BusquedaSecuencial.csproj.CoreCompileInputs.cache
+D:\users\braul\source\repos\6.1-BusquedaSecuencial\6.1-BusquedaSecuencial\obj\Debug\6.1-BusquedaSecuencial.exe
+D:\users\braul\source\repos\6.1-BusquedaSecuencial\6.1-BusquedaSecuencial\obj\Debug\6.1-BusquedaSecuencial.pdb
